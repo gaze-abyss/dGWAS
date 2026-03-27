@@ -1,1 +1,2 @@
 # dGWAS
+dynamicGWAS
